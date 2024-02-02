@@ -24,7 +24,7 @@
   "devDependencies": {
     "@statewalker/eslint-config": "*",
     "@statewalker/typescript-config": "*",
-    "@types/node": "^20.11.10",
+    "@types/node": "^20.11.16",
     "eslint": "^8.56.0",
     "tsup": "^8.0.1",
     "typescript": "^5.3.3",
